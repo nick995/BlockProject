@@ -1,6 +1,6 @@
 #### Description
 
-The biology clinic team consists of members Ahmed Al Hikmani, Iris Yang, Kishan Thambu, and MinGyu Jung who are working along with the Dr. Jorgensen Lab to create a centralized genetic database. 
+The biology clinic team with the Dr. Jorgensen Lab to create a centralized genetic database. 
 
 Many genetic databases including Dr. Jorgensen Lab utilizes google sheets and file maker for data storage and retrieval which is not user-friendly and creates security issues for data backups. 
 
